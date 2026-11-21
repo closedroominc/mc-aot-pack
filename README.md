@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/closedroominc/.github/main/profile/assets/attack-on-titan-icon.png" width="96" alt="Closed Room Minecraft project icon">
+
 # Closed Room INC. client pack
 
 Static mirror of the MC-Manager client sync data, served through GitHub so players
